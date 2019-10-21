@@ -1,51 +1,51 @@
 const robot=[
     {
         id:1,
-        name:'suprava koley',
-        username:'tanu',
-        email:'su@dfh.com'
+        name:'Leanne Graham',
+        username:'leanne',
+        email: "Sincere@april.biz"
     },
     {
         id:2,
-        name:'ri',
+        name: "Ervin Howell",
         username:'ri',
-        email:'ri@r.com'
+        email: "Shanna@melissa.tv"
     },
     {
         id:3,
-        name:'rihan',
+        name: "Clementine Bauch",
         username:'tanu',
-        email:'su@dfh.com'
+        email: "Nathan@yesenia.net"
     },
     {
         id:4,
-        name:'chandu',
+        name: "Patricia Lebsack",
         username:'tanu',
-        email:'su@dfh.com'
+        email: "Julianne.OConner@kory.org"
     },
     {
         id:5,
-        name:'sam',
+        name: "Chelsey Dietrich",
         username:'tanu',
-        email:'su@dfh.com'
+        email: "Lucio_Hettinger@annie.ca"
     },
     {
         id:6,
-        name:'xyz',
+        name: "Mrs. Dennis Schulist",
         username:'tanu',
-        email:'su@dfh.com'
+        email: "Karley_Dach@jasper.info",
     },
     {
         id:7,
-        name:'ghffh',
+        name: "Kurtis Weissnat",
         username:'tanu',
-        email:'su@dfh.com'
+        email: "Telly.Hoeger@billy.biz"
     },
     {
         id:8,
-        name:'yyyy',
+        name: "Nicholas Runolfsdottir V",
         username:'tanu',
-        email:'su@dfh.com'
+        email: "Sherwood@rosamond.me"
     }
 ]
 export default robot;
